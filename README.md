@@ -1,6 +1,6 @@
 # travel_app
 
-A new Flutter project.
+A new Flutter project. <br>
 
 This project is a result of a Flutter Coding challenge by @brocodev1 who is an amazing flutter dev from LATAM
 The amazing YouTube tutorial by @diegoveloper can be accessed here: https://www.youtube.com/watch?v=bEHPCwjLdno&ab_channel=diegoveloper
